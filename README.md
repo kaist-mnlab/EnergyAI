@@ -2,21 +2,23 @@
 Energy Bigdata Open Platform for Smart Energy Software Cornerstone Technology 
 
 ## Smart Energy Cornerstone Technology
-.. 
-* Data preprocessing
-  * raw data refinement
-  * missing data management
-  * outlier management
+* Energy Data Preprocessing
+  * Raw data refinement
+  * Missing data management
+  * Outlier management
+  * ..
 
-* Data profiling 
-  * feature extraction
-  * clustering
+* Energy Data Profiling 
+  * Feature extraction
+  * Clustering
+  * ..
 
-* Data prediction
-  * short-term prediction (~ a day)
-  * long-term prediction (~ 6 months)
+* Energy Data Prediction
+  * Short-term prediction (~ a day)
+  * Long-term prediction (~ 6 months)
+  * ..
 
-* Data generation 
+* Energy Data Generation 
   * ..
 
 * ESS management
@@ -24,16 +26,22 @@ Energy Bigdata Open Platform for Smart Energy Software Cornerstone Technology
 
 ## Smart Energy Cornerstone Service
 * Smart home application
-  *  
-* Smart building application
-  * 
+  * Non-intrusive load monitoring
+  * Abnormal detection
+  * ..
 
-![](/c/Users/mkkim/Desktop/readme.png)
+* Smart building application
+  * Energy management for energy prosumer
+  * ..
+
 
 ## Requirements
 Initial requirements are as follows
-* python 3.x ...
+* python 3.x 
+* ...
 
 ## Usage
-* 'python ..'
+```
+python ..
+```
 
